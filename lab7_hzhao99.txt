@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: hongjian
+    Linux system name: Hongjian-Mint
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/hongjian/ops445/lab7
+    Start at: Fri Mar 21 19:22:20 2025
+=================================================================
